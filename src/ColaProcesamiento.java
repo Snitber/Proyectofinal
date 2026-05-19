@@ -1,5 +1,4 @@
 // Archivo: ColaProcesamiento.java
-// Desarrollado para: Jhonnier Ortega
 // Paso 5: Estructura lineal manual FIFO para la carga por lotes del CSV
 
 public class ColaProcesamiento {

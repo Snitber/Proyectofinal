@@ -1,5 +1,4 @@
 // Archivo: Aula.java
-// Desarrollado para: Jhonnier Ortega
 // Paso 3: Molde básico para almacenar en el TreeMap de infraestructura
 
 public class Aula {

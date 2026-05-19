@@ -1,5 +1,5 @@
 // Archivo: PilaAuditoria.java
-// Desarrollado para: Jhonnier Ortega
+//
 // Paso 4: Estructura lineal manual LIFO para la bitácora de navegación
 
 public class PilaAuditoria {
