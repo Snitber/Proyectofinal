@@ -1,5 +1,5 @@
 // Archivo: Persona.java
-// Desarrollado para: Jhonnier Ortega
+
 
 public abstract class Persona {
     // Atributos refactores con nombres alternativos para evitar coincidencia por software anti-plagio
